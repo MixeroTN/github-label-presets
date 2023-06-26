@@ -1,5 +1,5 @@
 {
-	"name": "github-label-packages",
+	"name": "github-label-presets",
 	"version": "1.0.0",
 	"description": "A list of GitHub repository labels meant for recycling.",
 	"main": "src/Packages/default.json",
@@ -11,7 +11,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/robloxiandemo/github-label-packages.git"
+		"url": "https://github.com/robloxiandemo/github-label-presets.git"
 	},
 	"keywords": [
 		"cla",
@@ -20,6 +20,8 @@
 		"git",
 		"github",
 		"labels",
+		"presets",
+		"packages",
 		"status",
 		"strict",
 		"type",
@@ -38,9 +40,9 @@
 	],
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/robloxiandemo/github-label-packages/issues"
+		"url": "https://github.com/robloxiandemo/github-label-presets/issues"
 	},
-	"homepage": "https://github.com/robloxiandemo/github-label-packages/README.md",
+	"homepage": "https://github.com/robloxiandemo/github-label-presets/README.md",
 	"publishConfig": {
 		"access": "public"
 	}

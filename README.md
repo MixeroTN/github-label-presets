@@ -1,4 +1,4 @@
-# github-label-packages
+# github-label-presets
 
 A list of GitHub repository labels meant for recycling and usage with [@Financial-Times/github-label-sync](https://github.com/Financial-Times/github-label-sync).
 
@@ -7,24 +7,24 @@ A list of GitHub repository labels meant for recycling and usage with [@Financia
 ### 📦 — NPM:
 
 ```
-npm i github-label-packages
+npm i github-label-presets
 ```
 
 ### 🧶 — Yarn:
 
 ```
-yarn add github-label-packages
+yarn add github-label-presets
 ```
 
 ### 📀 — pnPM:
 
 ```
-pnpm add github-label-packages
+pnpm add github-label-presets
 ```
 
 ## Usage
 
-### A few default packages are provided to get you started:
+### A few default presets are provided to get you started:
 
 -   [cla](src/Packages/cla.json)
 -   [default](src/Packages/default.json) - _Default Github Labels_
@@ -43,5 +43,5 @@ pnpm add github-label-packages
 ## Usage With [@Financial-Times/github-label-sync](https://github.com/Financial-Times/github-label-sync):
 
 ```
-github-label-sync --access-token XXXXXX --labels nodemodules/github-label-packages/src/Strict/default.json myname/myrepo
+github-label-sync --access-token XXXXXX --labels node_modules/github-label-presets/src/Strict/default.json myname/myrepo
 ```
