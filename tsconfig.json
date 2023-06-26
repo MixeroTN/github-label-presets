@@ -1,0 +1,26 @@
+{
+	"compilerOptions": {
+		// Required.
+		"allowSyntheticDefaultImports": true,
+		"downlevelIteration": true,
+		"module": "commonjs",
+		"moduleResolution": "Node",
+		"noLib": true,
+		"resolveJsonModule": true,
+		"experimentalDecorators": true,
+		"forceConsistentCasingInFileNames": true,
+		"moduleDetection": "force",
+		"strict": true,
+		"target": "ESNext",
+		// Configurable.
+		"rootDir": "src",
+		"outDir": "out",
+		"baseUrl": "./",
+		"paths": {
+			"@/*": ["src/*"]
+		},
+		"incremental": true,
+		"plugins": [],
+		"tsBuildInfoFile": "out/tsconfig.tsbuildinfo"
+	}
+}
