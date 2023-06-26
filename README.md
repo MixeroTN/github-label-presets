@@ -7,19 +7,19 @@ A list of GitHub repository labels meant for recycling and usage with [@Financia
 ### 📦 — NPM:
 
 ```
-npm i github-label-presets
+npm i github-label-presets -D
 ```
 
 ### 🧶 — Yarn:
 
 ```
-yarn add github-label-presets
+yarn add github-label-presets -D
 ```
 
 ### 📀 — pnPM:
 
 ```
-pnpm add github-label-presets
+pnpm add github-label-presets -D
 ```
 
 ## Usage
