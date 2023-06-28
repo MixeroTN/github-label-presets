@@ -2,9 +2,9 @@
 	"name": "github-label-presets",
 	"version": "1.2.0",
 	"description": "A list of GitHub repository labels meant for recycling.",
-	"main": "src/Packages/default.json",
+	"main": "src/default.json",
 	"files": [
-		"src/Packages"
+		"src"
 	],
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1."
