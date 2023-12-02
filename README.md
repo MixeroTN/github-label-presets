@@ -16,7 +16,7 @@ npm i github-label-presets -D
 yarn add github-label-presets -D
 ```
 
-### 📀 — pnPM:
+### 📀 — Pnpm:
 
 ```
 pnpm add github-label-presets -D
